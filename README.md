@@ -1,3 +1,3 @@
 # project
-this is my project link
+this is my NGO Website project
 https://bhaal-g.github.io/project/
